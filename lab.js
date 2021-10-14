@@ -19,7 +19,7 @@ var lovesCode = true
 if ("lovesCode" == true){
   console.log("I love to code!")
 }else {
-    console.log("coding challenge")
+    console.log("coding has its challenges.")
 
   }
 
@@ -70,8 +70,8 @@ if (amysBirthYear === brittanisBirthYear){
 
 ////////// PROBLEM 4 //////////
 
-let temperature = 55
-let rain = true
+// let temperature = 55
+// let rain = true
 
 /*
   Using an if statement and a comparison operator, create code that will log a suggestion on what type of clothes one should wear for the day, 
@@ -83,7 +83,8 @@ let rain = true
 */
 
 //CODE HERE
-
+let temperature = 55
+let rain = true
 
 
 ////////// PROBLEM 5 //////////
